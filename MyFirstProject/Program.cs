@@ -11,7 +11,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            HelloWorld.Run();
+            Types.Run();
         }
     }
 }
